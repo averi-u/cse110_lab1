@@ -37,15 +37,15 @@ When I forgot the syntax, I used this website. [W3school](https://www.w3schools.
 
 ### **Items**
 
-1. Large software
-2. Cost
+1. drink water
+2. Cost money
 
 
 ### **Things to remember**
 
-- Updated
-- Requirements
-- System Analysis
+- first 
+- second
+- third
 
 
 ### **Programming language**
