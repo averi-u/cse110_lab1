@@ -30,7 +30,7 @@ for x in words:
   print(x)
 ```
 
-When I forgot the syntax, I used this website. [W3school](https://www.w3schools.com/python/python_for_loops.asp)
+Use this website. [W3school](https://www.w3schools.com/python/python_for_loops.asp)
 
 
 ![This is an image](./image2.jpg)
