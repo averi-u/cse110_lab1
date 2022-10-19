@@ -1,1 +1,60 @@
-#testing 
+# Header
+
+[Who](#who-am-i)
+
+[Favorite Programming language](#my-favorite-programming-language)
+
+[Items](#Items)
+
+[Things to remember](#Things to remember)
+
+[languages](#languages)
+
+## Who Am I??
+
+**I'm Zhizhen Yu**
+
+> I'm a second year computer engineering major student.
+
+### My favorite programming language
+
+> Python!
+
+> Python is a beautiful language. 
+>
+> **_This is the python code example_**
+
+```
+words = ["exhilarate", "unproven", "inconstancy"]
+for x in words:
+  print(x)
+```
+
+When I forgot the syntax, I used this website. [W3school](https://www.w3schools.com/python/python_for_loops.asp)
+
+
+![This is an image](./image2.jpg)
+
+### **Items**
+
+1. Large software
+2. Cost
+
+
+### **Things to remember**
+
+- Updated
+- Requirements
+- System Analysis
+
+
+### **Programming language**
+
+> programming languages
+
+- [x] Python
+- [x] Java
+- [x] C
+- [x] C++
+- [x] Javascript
+- [x] CSS
